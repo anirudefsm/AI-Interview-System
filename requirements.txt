@@ -1,0 +1,11 @@
+sentence-transformers
+transformers
+chromadb
+whisper
+gtts
+googletrans==4.0.0rc1
+sounddevice
+soundfile
+pydub
+pygame
+scikit-learn
