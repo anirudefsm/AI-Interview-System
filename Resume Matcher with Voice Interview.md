@@ -155,7 +155,7 @@ For questions or contributions, please open an issue or submit a pull request.
 
 ---
 
-> This project demonstrates an end-to-end AI workflow for automated, multilingual resume screening and interviewing, leveraging modern NLP and speech technologies for real-world recruitment scenarios[^1].
+> This project demonstrates an end-to-end AI workflow for automated, multilingual resume screening and interviewing, leveraging modern NLP and speech technologies for real-world recruitment scenarios.
 
 <div style="text-align: center">⁂</div>
 
