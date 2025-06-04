@@ -89,33 +89,9 @@ A: Replace the air filter five times
 
 ---
 
-## Setup Instructions
-
-1. **Clone the Repository**
-
-```
-git clone https://github.com/yourusername/resume-matcher-voice-interview.git
-cd resume-matcher-voice-interview
-```
-
-2. **Install Dependencies**
-
-```
-pip install -r requirements.txt
-```
-
-3. **Run the Application**
-
-```
-python main.py
-```
-
-
----
-
 ## Project Structure
 
-- `main.py` — Main application logic
+- `Ai-Interview-System.ipynb` — Main logic notebook/file 
 - `chroma_data/` — Persistent vector database storage
 - `requirements.txt` — Python dependencies
 
