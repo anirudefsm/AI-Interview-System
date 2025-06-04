@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 ## Resume Matcher with Voice Interview
 
 This project is an AI-powered system that matches candidate resumes to the most suitable job descriptions and conducts a voice-based interview in the candidate's preferred language (English or Hindi). It leverages state-of-the-art NLP models, vector databases, and speech technologies to automate and enhance the recruitment process.
@@ -137,12 +135,6 @@ Extend translation and TTS/STT modules for more languages as needed.
 - The system relies on the accuracy of speech recognition and translation APIs.
 - Interview answers are stored verbatim; further post-processing may be needed for downstream applications.
 - The project is a prototype and may require additional error handling for production use.
-
----
-
-## License
-
-This project is open-source and available under the MIT License.
 
 ---
 
