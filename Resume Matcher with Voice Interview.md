@@ -1,4 +1,4 @@
-## Resume Matcher with Voice Interview
+## AI JOB INTERVIEW TAKER
 
 This project is an AI-powered system that matches candidate resumes to the most suitable job descriptions and conducts a voice-based interview in the candidate's preferred language (English or Hindi). It leverages state-of-the-art NLP models, vector databases, and speech technologies to automate and enhance the recruitment process.
 
