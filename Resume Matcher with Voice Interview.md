@@ -159,5 +159,4 @@ For questions or contributions, please open an issue or submit a pull request.
 
 <div style="text-align: center">⁂</div>
 
-[^1]: paste.txt
 
